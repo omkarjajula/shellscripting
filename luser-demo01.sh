@@ -9,3 +9,4 @@ WORD='script'
 # display
 echo "$WORD"
 echo "this is a shell $WORD"
+echo "${WORD}ing is fun"
