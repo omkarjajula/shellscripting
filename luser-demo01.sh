@@ -10,3 +10,5 @@ WORD='script'
 echo "$WORD"
 echo "this is a shell $WORD"
 echo "${WORD}ing is fun"
+ENDING='ed'
+echo "this is ${WORD} ${ENDING}"
