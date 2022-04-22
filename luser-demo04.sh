@@ -5,4 +5,4 @@
 read -p "please enter your name " NAME
 read -p "enter the comment for this name " COMMENT
 read -p "enter password " PASS
-user add -c "$COMMENT" -m $NAME
+useradd -c "$COMMENT" -m $NAME
